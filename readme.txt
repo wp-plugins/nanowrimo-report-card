@@ -2,8 +2,10 @@
 Contributors: davidwilliamson
 Tags: nanowrimo, report card, page
 Requires at least: 2.0
-Tested up to: 2.3.3
+Tested up to: 2.5
 Stable tag: 0.2
+Plugin Url: http://davidized.com/plugins/nanorc/
+Author Url: http://davidized.com/
 
 An easy way to keep track of your novel's progress for everyone to follow with interesting stats and graphs.
 
